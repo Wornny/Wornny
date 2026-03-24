@@ -1,12 +1,17 @@
 #👋 Salut, moi c'est Maël
 Bienvenue sur mon profil GitHub !
 
+---
+
 ##💻 À propos de moi
 🎓 Étudiant en BTS CIEL ( cybersécuté, informatique et réseaux, éléctronique ) 
 🎮 Passionné par le développement de jeux : je développe un jeu sur Godot
 🛠️ J'aime expérimenter et apprendre de nouvelles technologies
 
+---
+
 ##📚 Projets en cours
+
 ### 🎓 Projet BTS CIEL – Application web de supervision IoT
 
 - Développement d’une interface web permettant de superviser des équipements via MQTT  
