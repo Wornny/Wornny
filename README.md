@@ -1,16 +1,39 @@
-## Hi there 👋
+#👋 Salut, moi c'est Maël
+Bienvenue sur mon profil GitHub !
 
-<!--
-**Wornny/Wornny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##💻 À propos de moi
+🎓 Étudiant en BTS CIEL ( cybersécuté, informatique et réseaux, éléctronique ) 
+🎮 Passionné par le développement de jeux : je développe un jeu sur Godot
+🛠️ J'aime expérimenter et apprendre de nouvelles technologies
 
-Here are some ideas to get you started:
+##📚 Projets en cours
+### 🎓 Projet BTS CIEL – Application web de supervision IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Développement d’une interface web permettant de superviser des équipements via MQTT  
+- Déploiement sur serveur Debian avec Docker / Docker Compose  
+- Stockage et gestion des données dans une base MySQL  
+- Supervision d’équipements simulés  
+
+---
+
+### 🎮 HellSpin
+
+- Roguelike basé sur une roulette de casino avec un système de prise de risque  
+- Présence d’un système de boutique (bar) avec des objets et effets évolutifs  
+- Gameplay orienté adaptation avec des événements et situations imprévisibles  
+- Jeu pensé pour intégrer de nombreux dialogues et interactions en fonction des actions du joueur (approche “4ème mur”)  
+- Création des modèles 3D réalisés en grande partie avec Blender  
+- Développement en cours sur Godot  
+
+---
+
+## 🧠 Compétences techniques
+
+- Langages : Python, JavaScript, HTML  
+- Outils : Docker, MySQL, MQTT  
+- Moteur : Godot, Blender  
+- Systèmes : Linux, Windows  
+
+---
+
+💡 Toujours en train d’expérimenter, développer et améliorer mes projets personnels.
