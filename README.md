@@ -1,12 +1,13 @@
-#👋 Salut, moi c'est Maël
+# 👋 Salut, moi c’est Maël
+
 Bienvenue sur mon profil GitHub !
 
----
+## 💻 À propos de moi
 
-##💻 À propos de moi
-🎓 Étudiant en BTS CIEL ( cybersécuté, informatique et réseaux, éléctronique ) 
-🎮 Passionné par le développement de jeux : je développe un jeu sur Godot
-🛠️ J'aime expérimenter et apprendre de nouvelles technologies
+🎓 Étudiant en BTS CIEL (cybersécurité, informatique et réseaux, électronique)  
+🎮 Passionné par le développement, notamment de jeux vidéo  
+🛠️ Je développe actuellement un jeu sur Godot  
+🚀 J’aime expérimenter et apprendre de nouvelles technologies
 
 ---
 
