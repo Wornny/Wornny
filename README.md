@@ -11,7 +11,7 @@ Bienvenue sur mon profil GitHub !
 
 ---
 
-##📚 Projets en cours
+## 📚 Projets en cours
 
 ### 🎓 Projet BTS CIEL – Application web de supervision IoT
 
