@@ -22,7 +22,7 @@ Bienvenue sur mon profil GitHub !
 
 ---
 
-### 🎮 HellSpin
+### 🎮 SoulSpin
 
 - Roguelike basé sur une roulette de casino avec un système de prise de risque  
 - Présence d’un système de boutique (bar) avec des objets et effets évolutifs  
