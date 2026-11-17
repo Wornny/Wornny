@@ -5,7 +5,7 @@ Bienvenue sur mon profil GitHub !
 ## 💻 À propos de moi
 
 🎓 Ancient Étudiant en BTS CIEL (cybersécurité, informatique et réseaux, électronique)
-Actuellement Étudiant en 3D animation, bachelor 2
+ Actuellement Étudiant en 3D animation, bachelor 2
 🎮 Passionné par le développement, notamment de jeux vidéo  
 🛠️ Je développe actuellement un jeu sur Godot  
 🚀 J’aime expérimenter et apprendre de nouvelles technologies
