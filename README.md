@@ -23,6 +23,7 @@ Bienvenue sur mon profil GitHub !
 
 ## 📚 Projets en cours
 
+
 ### 🎮 SoulSpin
 
 - Roguelike basé sur une roulette de casino avec un système de prise de risque  
