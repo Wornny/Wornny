@@ -4,14 +4,13 @@ Bienvenue sur mon profil GitHub !
 
 ## 💻 À propos de moi
 
-🎓 Étudiant en BTS CIEL (cybersécurité, informatique et réseaux, électronique)  
+🎓 Ancient Étudiant en BTS CIEL (cybersécurité, informatique et réseaux, électronique)
+🎮 Actuellement Étudiant en 3D animation, bachelor 2
 🎮 Passionné par le développement, notamment de jeux vidéo  
 🛠️ Je développe actuellement un jeu sur Godot  
 🚀 J’aime expérimenter et apprendre de nouvelles technologies
 
 ---
-
-## 📚 Projets en cours
 
 ### 🎓 Projet BTS CIEL – Application web de supervision IoT
 
@@ -22,13 +21,15 @@ Bienvenue sur mon profil GitHub !
 
 ---
 
+## 📚 Projets en cours
+
 ### 🎮 SoulSpin
 
 - Roguelike basé sur une roulette de casino avec un système de prise de risque  
 - Présence d’un système de boutique (bar) avec des objets et effets évolutifs  
 - Gameplay orienté adaptation avec des événements et situations imprévisibles  
 - Jeu pensé pour intégrer de nombreux dialogues et interactions en fonction des actions du joueur (approche “4ème mur”)  
-- Création des modèles 3D réalisés en grande partie avec Blender  
+- Création des modèles 3D réalisés sur blender
 - Développement en cours sur Godot  
 
 ---
